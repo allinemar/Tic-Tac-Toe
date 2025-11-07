@@ -11,4 +11,4 @@ A fun and colorful Tic-Tac-Toe game made in **Java** with **Swing**! Play agains
 - Option to play again after the game ends
 
 ## 🎥 Demo
-✨ Click [here](preview.webm) to watch the game in action, or check out the preview.webm file above! 🎮
+✨ Click [here](preview.mp4) to watch the game in action, or check out the preview.webm file above! 🎮
