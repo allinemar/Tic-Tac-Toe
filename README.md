@@ -44,3 +44,8 @@ Finished a match? Decide whether you want to go for another round or leave the b
 <p align="center">
   <img src="assets/playAgainScreen.png" alt="Play Again Screen" width="400">
 </p>
+
+## 🎥 Let's see it working
+<p align="center">
+  <img src="assets/gif.gif" alt="Prewiew" width="400">
+</p>
