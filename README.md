@@ -47,5 +47,5 @@ Finished a match? Decide whether you want to go for another round or leave the b
 
 ## 🎥 Let's see it working
 <p align="center">
-  <img src="assets/gif.gif" alt="Prewiew" width="400">
+  <img src="assets/gif.gif" alt="Prewiew">
 </p>
